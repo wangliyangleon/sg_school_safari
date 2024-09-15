@@ -1,0 +1,564 @@
+{
+    "schools": [
+        {
+            "code": 1744,
+            "name": "Admiralty Primary School",
+            "area": "Woodlands",
+            "type": "mixed",
+            "website": "https://admiraltypri.moe.edu.sg/"
+        },
+        {
+            "code": 1738,
+            "name": "Ahmad Ibrahim Primary School",
+            "area": "Yishun",
+            "type": "mixed",
+            "website": "http://www.ahmadibrahimpri.moe.edu.sg"
+        },
+        {
+            "code": 5625,
+            "name": "Ai Tong School",
+            "area": "Bishan",
+            "type": "mixed",
+            "website": "http://www.aitong.moe.edu.sg"
+        },
+        {
+            "code": 1266,
+            "name": "Alexandra Primary School",
+            "area": "Bukit Merah",
+            "type": "mixed",
+            "website": "http://alexandrapri.moe.edu.sg"
+        },
+        {
+            "code": 1254,
+            "name": "Anchor Green Primary School",
+            "area": "Seng Kang",
+            "type": "mixed",
+            "website": "http://www.anchorgreenpri.moe.edu.sg"
+        },
+        {
+            "code": 1766,
+            "name": "Anderson Primary School",
+            "area": "Ang Mo Kio",
+            "type": "mixed",
+            "website": "http://www.andersonpri.moe.edu.sg"
+        },
+        {
+            "code": 1150,
+            "name": "Ang Mo Kio Primary School",
+            "area": "Ang Mo Kio",
+            "type": "mixed",
+            "website": "http://www.angmokiopri.moe.edu.sg"
+        },
+        {
+            "code": 5001,
+            "name": "Anglo-Chinese School (Junior)",
+            "area": "Central",
+            "type": "boys",
+            "website": "http://www.acsj.moe.edu.sg"
+        },
+        {
+            "code": 5638,
+            "name": "Anglo-Chinese School (Primary)",
+            "area": "Novena",
+            "type": "boys",
+            "website": "http://www.acspri.moe.edu.sg/"
+        },
+        {
+            "code": 1268,
+            "name": "Angsana Primary School",
+            "area": "Tampines",
+            "type": "mixed",
+            "website": "https://angsanapri.moe.edu.sg/"
+        },
+        {
+            "code": 1249,
+            "name": "Beacon Primary School",
+            "area": "Bukit Panjang",
+            "type": "mixed",
+            "website": "https://beaconpri.moe.edu.sg/"
+        },
+        {
+            "code": 1230,
+            "name": "Bedok Green Primary School",
+            "area": "Bedok",
+            "type": "mixed",
+            "website": "http://www.bedokgreenpri.moe.edu.sg"
+        },
+        {
+            "code": 1129,
+            "name": "Bendemeer Primary School",
+            "area": "Kallang",
+            "type": "mixed",
+            "website": "http://www.bendemeerpri.moe.edu.sg/"
+        },
+        {
+            "code": 1145,
+            "name": "Blangah Rise Primary School",
+            "area": "Bukit Merah",
+            "type": "mixed",
+            "website": "http://www.blangahrisepri.moe.edu.sg/"
+        },
+        {
+            "code": 1640,
+            "name": "Boon Lay Garden Primary School",
+            "area": "Jurong West",
+            "type": "mixed",
+            "website": "http://www.boonlaygardenpri.moe.edu.sg"
+        },
+        {
+            "code": 1020,
+            "name": "Bukit Panjang Primary School",
+            "area": "Bukit Panjang",
+            "type": "mixed",
+            "website": "http://www.bukitpanjangpri.moe.edu.sg"
+        },
+        {
+            "code": 1247,
+            "name": "Bukit Timah Primary School",
+            "area": "Bukit Timah",
+            "type": "mixed",
+            "website": "http://www.bukittimahpri.moe.edu.sg"
+        },
+        {
+            "code": 1209,
+            "name": "Bukit View Primary School",
+            "area": "Bukit Batok",
+            "type": "mixed",
+            "website": "http://www.bukitviewpri.moe.edu.sg"
+        },
+        {
+            "code": 1751,
+            "name": "Canberra Primary School",
+            "area": "Sembawang",
+            "type": "mixed",
+            "website": "http://www.canberrapri.moe.edu.sg"
+        },
+        {
+            "code": 5029,
+            "name": "Canossa Catholic Primary School",
+            "area": "Geylang",
+            "type": "mixed",
+            "website": "https://canossacatholicpri.moe.edu.sg/"
+        },
+        {
+            "code": 1256,
+            "name": "Cantonment Primary School",
+            "area": "Bukit Merah",
+            "type": "mixed",
+            "website": "http://www.cantonmentpri.moe.edu.sg"
+        },
+        {
+            "code": 1771,
+            "name": "Casuarina Primary School",
+            "area": "Pasir Ris",
+            "type": "mixed",
+            "website": "http://www.casuarinapri.moe.edu.sg/"
+        },
+        {
+            "code": 7102,
+            "name": "Catholic High School",
+            "area": "Bishan",
+            "type": "boys",
+            "website": "http://www.catholichigh.moe.edu.sg"
+        },
+        {
+            "code": 1211,
+            "name": "Cedar Primary School",
+            "area": "Toa Payoh",
+            "type": "mixed",
+            "website": "http://www.cedarpri.moe.edu.sg"
+        },
+        {
+            "code": 1239,
+            "name": "Changkat Primary School",
+            "area": "Tampines",
+            "type": "mixed",
+            "website": "http://www.changkatpri.moe.edu.sg/"
+        },
+        {
+            "code": 5637,
+            "name": "CHIJ (Katong) Primary",
+            "area": "Bedok",
+            "type": "girls",
+            "website": "http://chijkcp.moe.edu.sg/"
+        },
+        {
+            "code": 5005,
+            "name": "CHIJ (Kellock)",
+            "area": "Bukit Merah",
+            "type": "girls",
+            "website": "http://www.chijkellock.moe.edu.sg/"
+        },
+        {
+            "code": 5017,
+            "name": "CHIJ Our Lady of Good Counsel",
+            "area": "Serangoon",
+            "type": "girls",
+            "website": "http://www.chijourladyofgoodcounsel.moe.edu.sg"
+        },
+        {
+            "code": 5007,
+            "name": "CHIJ Our Lady of the Nativity",
+            "area": "Hougang",
+            "type": "girls",
+            "website": "http://www.chijourladyofthenativity.moe.edu.sg/"
+        },
+        {
+            "code": 5019,
+            "name": "CHIJ Our Lady Queen of Peace",
+            "area": "Bukit Panjang",
+            "type": "girls",
+            "website": "http://www.chijourladyqueenofpeace.moe.edu.sg/"
+        },
+        {
+            "code": 5004,
+            "name": "CHIJ Primary (Toa Payoh)",
+            "area": "Toa Payoh",
+            "type": "girls",
+            "website": "http://www.chijpritoapayoh.moe.edu.sg"
+        },
+        {
+            "code": 7118,
+            "name": "CHIJ St. Nicholas Girls' School",
+            "area": "Ang Mo Kio",
+            "type": "girls",
+            "website": "http://www.chijstnicholasgirls.moe.edu.sg"
+        },
+        {
+            "code": 5636,
+            "name": "Chongfu School",
+            "area": "Yishun",
+            "type": "mixed",
+            "website": "http://www.chongfu.moe.edu.sg/"
+        },
+        {
+            "code": 1203,
+            "name": "Chongzheng Primary School",
+            "area": "Tampines",
+            "type": "mixed",
+            "website": "http://www.chongzhengpri.moe.edu.sg"
+        },
+        {
+            "code": 1244,
+            "name": "Chua Chu Kang Primary School",
+            "area": "Choa Chu Kang",
+            "type": "mixed",
+            "website": "http://www.chuachukangpri.moe.edu.sg"
+        },
+        {
+            "code": 1772,
+            "name": "Clementi Primary School",
+            "area": "Clementi",
+            "type": "mixed",
+            "website": "http://www.clementipri.moe.edu.sg"
+        },
+        {
+            "code": 1757,
+            "name": "Compassvale Primary School",
+            "area": "Seng Kang",
+            "type": "mixed",
+            "website": "http://www.compassvalepri.moe.edu.sg/"
+        },
+        {
+            "code": 1760,
+            "name": "Concord Primary School",
+            "area": "Choa Chu Kang",
+            "type": "mixed",
+            "website": "http://www.concordpri.moe.edu.sg/"
+        },
+        {
+            "code": 1132,
+            "name": "Corporation Primary School",
+            "area": "Jurong West",
+            "type": "mixed",
+            "website": "http://www.corporationpri.moe.edu.sg"
+        },
+        {
+            "code": 1102,
+            "name": "Damai Primary School",
+            "area": "Bedok",
+            "type": "mixed",
+            "website": "http://www.damaipri.moe.edu.sg"
+        },
+        {
+            "code": 1229,
+            "name": "Dazhong Primary School",
+            "area": "Bukit Batok",
+            "type": "mixed",
+            "website": "http://www.dazhongpri.moe.edu.sg"
+        },
+        {
+            "code": 5008,
+            "name": "De La Salle School",
+            "area": "Choa Chu Kang",
+            "type": "mixed",
+            "website": "http://www.delasalle.moe.edu.sg"
+        },
+        {
+            "code": 1755,
+            "name": "East Spring Primary School",
+            "area": "Tampines",
+            "type": "mixed",
+            "website": "http://www.eastspringpri.moe.edu.sg"
+        },
+        {
+            "code": 1769,
+            "name": "Edgefield Primary School",
+            "area": "Punggol",
+            "type": "mixed",
+            "website": "http://www.edgefieldpri.moe.edu.sg"
+        },
+        {
+            "code": 1737,
+            "name": "Elias Park Primary School",
+            "area": "Pasir Ris",
+            "type": "mixed",
+            "website": "http://www.eliasparkpri.moe.edu.sg"
+        },
+        {
+            "code": 1252,
+            "name": "Endeavour Primary School",
+            "area": "Sembawang",
+            "type": "mixed",
+            "website": "https://endeavourpri.moe.edu.sg/"
+        },
+        {
+            "code": 1756,
+            "name": "Evergreen Primary School",
+            "area": "Woodlands",
+            "type": "mixed",
+            "website": "http://www.evergreenpri.moe.edu.sg/"
+        },
+        {
+            "code": 5020,
+            "name": "Fairfield Methodist School (Primary)",
+            "area": "Queenstown",
+            "type": "mixed",
+            "website": "http://www.fmsp.moe.edu.sg/"
+        },
+        {
+            "code": 1246,
+            "name": "Farrer Park Primary School",
+            "area": "Kallang",
+            "type": "mixed",
+            "website": "http://www.farrerparkpri.moe.edu.sg"
+        },
+        {
+            "code": 1657,
+            "name": "Fengshan Primary School",
+            "area": "Bedok",
+            "type": "mixed",
+            "website": "http://www.fengshanpri.moe.edu.sg"
+        },
+        {
+            "code": 1272,
+            "name": "Fern Green Primary School",
+            "area": "Seng Kang",
+            "type": "mixed",
+            "website": "http://www.ferngreenpri.moe.edu.sg"
+        },
+        {
+            "code": 1177,
+            "name": "Fernvale Primary School",
+            "area": "Seng Kang",
+            "type": "mixed",
+            "website": "http://www.fernvalepri.moe.edu.sg"
+        },
+        {
+            "code": 1610,
+            "name": "First Toa Payoh Primary School",
+            "area": "Toa Payoh",
+            "type": "mixed",
+            "website": "http://www.firsttoapayohpri.moe.edu.sg"
+        },
+        {
+            "code": 1257,
+            "name": "Frontier Primary School",
+            "area": "Jurong West",
+            "type": "mixed",
+            "website": "http://www.frontierpri.moe.edu.sg"
+        },
+        {
+            "code": 1208,
+            "name": "Fuchun Primary School",
+            "area": "Woodlands",
+            "type": "mixed",
+            "website": "http://www.fuchunpri.moe.edu.sg"
+        },
+        {
+            "code": 1107,
+            "name": "Fuhua Primary School",
+            "area": "Jurong East",
+            "type": "mixed",
+            "website": "http://www.fuhuapri.moe.edu.sg"
+        },
+        {
+            "code": 1221,
+            "name": "Gan Eng Seng Primary School",
+            "area": "Bukit Merah",
+            "type": "mixed",
+            "website": "http://www.ganengsengpri.moe.edu.sg"
+        },
+        {
+            "code": 5022,
+            "name": "Geylang Methodist School (Primary)",
+            "area": "Geylang",
+            "type": "mixed",
+            "website": "http://www.geylangmethodistpri.moe.edu.sg"
+        },
+        {
+            "code": 1222,
+            "name": "Gongshang Primary School",
+            "area": "Tampines",
+            "type": "mixed",
+            "website": "http://www.gongshangpri.moe.edu.sg"
+        },
+        {
+            "code": 1251,
+            "name": "Greendale Primary School",
+            "area": "Punggol",
+            "type": "mixed",
+            "website": "http://www.greendalepri.moe.edu.sg"
+        },
+        {
+            "code": 1245,
+            "name": "Greenridge Primary School",
+            "area": "Bukit Panjang",
+            "type": "mixed",
+            "website": "http://www.greenridgepri.moe.edu.sg"
+        },
+        {
+            "code": 1765,
+            "name": "Greenwood Primary School",
+            "area": "Woodlands",
+            "type": "mixed",
+            "website": "http://www.greenwoodpri.moe.edu.sg"
+        },
+        {
+            "code": 1038,
+            "name": "Haig Girls' School",
+            "area": "Geylang",
+            "type": "girls",
+            "website": "http://www.haiggirls.moe.edu.sg"
+        },
+        {
+            "code": 1121,
+            "name": "Henry Park Primary School",
+            "area": "Bukit Timah",
+            "type": "mixed",
+            "website": "http://www.henryparkpri.moe.edu.sg"
+        },
+        {
+            "code": 5634,
+            "name": "Holy Innocents' Primary School",
+            "area": "Hougang",
+            "type": "mixed",
+            "website": "http://www.holyinnocentspri.moe.edu.sg/"
+        },
+        {
+            "code": 5626,
+            "name": "Hong Wen School",
+            "area": "Kallang",
+            "type": "mixed",
+            "website": "http://www.hongwen.moe.edu.sg"
+        },
+        {
+            "code": 1255,
+            "name": "Horizon Primary School",
+            "area": "Punggol",
+            "type": "mixed",
+            "website": "http://www.horizonpri.moe.edu.sg"
+        },
+        {
+            "code": 1763,
+            "name": "Hougang Primary School",
+            "area": "Hougang",
+            "type": "mixed",
+            "website": "http://www.hougangpri.moe.edu.sg/"
+        },
+        {
+            "code": 1223,
+            "name": "Huamin Primary School",
+            "area": "Yishun",
+            "type": "mixed",
+            "website": "http://www.huaminpri.moe.edu.sg"
+        },
+        {
+            "code": 1250,
+            "name": "Innova Primary School",
+            "area": "Woodlands",
+            "type": "mixed",
+            "website": "http://www.innovapri.moe.edu.sg/"
+        },
+        {
+            "code": 1207,
+            "name": "Jiemin Primary School",
+            "area": "Yishun",
+            "type": "mixed",
+            "website": "http://www.jieminpri.moe.edu.sg"
+        },
+        {
+            "code": 1166,
+            "name": "Jing Shan Primary School",
+            "area": "Ang Mo Kio",
+            "type": "mixed",
+            "website": "http://www.jingshanpri.moe.edu.sg"
+        },
+        {
+            "code": 1727,
+            "name": "Junyuan Primary School",
+            "area": "Tampines",
+            "type": "mixed",
+            "website": "https://junyuanpri.moe.edu.sg"
+        },
+        {
+            "code": 1045,
+            "name": "Jurong Primary School",
+            "area": "Jurong East",
+            "type": "mixed",
+            "website": "http://www.jurongpri.moe.edu.sg"
+        },
+        {
+            "code": 1753,
+            "name": "Jurong West Primary School",
+            "area": "Jurong West",
+            "type": "mixed",
+            "website": "http://www.jurongwestpri.moe.edu.sg"
+        },
+        {
+            "code": 1238,
+            "name": "Keming Primary School",
+            "area": "Bukit Batok",
+            "type": "mixed",
+            "website": "http://www.kemingpri.moe.edu.sg"
+        },
+        {
+            "code": 5608,
+            "name": "Kheng Cheng School",
+            "area": "Toa Payoh",
+            "type": "mixed",
+            "website": "http://www.khengcheng.moe.edu.sg/"
+        },
+        {
+            "code": 5168,
+            "name": "Kong Hwa School",
+            "area": "Geylang",
+            "type": "mixed",
+            "website": "http://www.konghwa.moe.edu.sg"
+        },
+        {
+            "code": 1745,
+            "name": "Kranji Primary School",
+            "area": "Choa Chu Kang",
+            "type": "mixed",
+            "website": "http://kranjipri.moe.edu.sg"
+        },
+        {
+            "code": 5024,
+            "name": "Kuo Chuan Presbyterian Primary School",
+            "area": "Bishan",
+            "type": "mixed",
+            "website": "http://www.kuochuanpresbyterianpri.moe.edu.sg"
+        }
+    ]
+}
